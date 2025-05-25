@@ -20,8 +20,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
-# Developed by: Abishek Priyan M
-# Register number: 212224240004
+# Developed by: S Rajath
+# Register number: 212224240127
 
  
 ## Program
